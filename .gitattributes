@@ -1,0 +1,9 @@
+# Do not edit manually
+# Language detection rules
+public/index.html linguist-vendored
+public/*.html linguist-vendored
+*.md linguist-documentation
+*.ico binary
+**/*.go linguist-detectable
+
+*.svg text
